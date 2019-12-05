@@ -1,0 +1,31 @@
+.el-form-item__content{
+  width: 350px;
+  margin: 0 auto;
+}
+
+.el-input__inner{
+  background-color: rgba(253, 253, 251, 0.1) !important;
+  border:1px solid #b1b5c0;
+  display: block;
+  color: #fcfdff;
+}
+.login-btn{
+  width: 350px;
+  margin: 40px auto 0;
+  display: block;
+}
+.el-header{
+  padding: 0;
+  background-color: #60b8f3;
+}
+.el-container{
+  height: 100%;
+}
+
+.el-tabs__nav{
+  width: 100%;
+}
+.el-tabs__item{
+  width: 33%;
+}
+
